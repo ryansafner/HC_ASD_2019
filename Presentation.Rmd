@@ -6,8 +6,8 @@ date: "Hood College Admitted Students Day </br> April 6, 2019"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    seal: false
-    #css: [default] #, metropolis, metropolis-fonts
+    #seal: false
+    css: [custom.css, default-fonts] #, metropolis, metropolis-fonts
     nature:
       highlightStyle: github
       highlightLines: true
@@ -30,37 +30,33 @@ class: center, top
 ## Dr. Ryan Safner
 
 ---
+
+background-image: url(https://ih0.redbubble.net/image.515559128.2008/pp,550x550.u1.jpg)
+background-position: 50% 200%
+class: center, top
+
+## "Magic Internet Money?"
+
+## How Blockchain Technology Could Revolutionize the 21<sup>st</sup> Century Economy
+
+## Dr. Ryan Safner
+
+<div class="logo-left"></div>
+
+---
 class: inverse, center, middle
 
 # Bitcoin
 
 ---
 
-# Bitcoin
-
-- A radically decentralized peer-to-peer cryptographic currency
-- Created in 2009 by "Satoshi Nakamoto"
-- Open source: software is free and anyone can change it
-- Most recognizable cryptocurrency and application of **blockchain** technology
-
----
-
-# The Argument for Bitcoin
-
-- Free, instantaneous, usable by anyone (in theory)
-- A fixed supply of money
-- Tamper-proof
-- Requires no trust in any central authority 
-
----
-
 class: inverse, center, middle
 
-# Some Definitions
+# SOME DEFINITIONS
 
 ---
 
-# Wallet: "Storing" Bitcoins
+# *Wallet*: "Storing" Bitcoins
 
 ![](https://www.dropbox.com/s/3bo9ndd5z0pj8of/bitcoinwallet.png?raw=1)
 
@@ -68,13 +64,13 @@ class: inverse, center, middle
 
 ---
 
-# Wallet as Username-Password
+# *WALLET* AS "USERNAME" AND "PASSWORD"
 
 ![](https://www.dropbox.com/s/cme233mkr4jxkq6/publicprivatekey.png?raw=1)
 
 ---
 
-# Node: Run the Software
+# *NODE*: RUN THE SOFTWARE
 
 ![](https://www.dropbox.com/s/ofepob32uvr5jol/bitcoinnode1.jpg?raw=1)
 ![](https://www.dropbox.com/s/qg53o3zap3n0ihp/bitcoinnodes.PNG?raw=1)
@@ -82,39 +78,46 @@ class: inverse, center, middle
 ---
 
 
-# Miner: Verify Transactions
+# *MINER*: VERIFY TRANSACTIONS
 
 ![](https://www.dropbox.com/s/4923z1s1anamqup/bitcoinmining.jpg?raw=1)
 
 ---
 
-# Blockchain: The Public Ledger
+# *BLOCKCHAIN*: THE PUBLIC LEDGER
 
 ---
 
 class: inverse, center, middle
 
-# The Argument for Bitcoin
+# THE ARGUMENT FOR BITCOIN
 
 ---
 
-# Bitcoin is Decentralized
+# BITCOIN IS DECENTRALIZED
 
 ---
 
-# Bitcoin is Open Source
+# BITCOIN IS OPEN SOURCE
 
 ---
 
-# Bitcoin is Secure
+# BITCOIN IS SECURE
 
 ![](../Teaching/images/moneyprintingpress.jpg)
 
 ---
 
-# Bitcoin Has a Fixed Supply
+# BITCOIN HAS A FIXED SUPPLY
 
 ![](https://www.dropbox.com/s/iotbcvqxc10zejo/moneyprintingpress.jpg?raw=1)
+
+---
+
+# Cryptocurrencies
+
+![](https://www.dropbox.com/s/90l52zkg6lupthf/cryptoapril2.png?raw=1)
+![](https://www.dropbox.com/s/qgy7rv1bc3wrkdl/cryptoapril.png?raw=1)
 
 ---
 
@@ -124,16 +127,32 @@ class: inverse, center, middle
 
 ---
 
-# Blockchain 
+# BLOCKCHAIN 
 
 ---
 
 class: inverse, center, middle
 
-# Blockchain Applications
+# BLOCKCHAIN APPLICATIONS
 
 ---
 
-# Food Safety
+# BLOCKCHAIN FOR IDENTITY
+
+Phonebook without a Phone Company
+
+![](https://www.dropbox.com/s/xnhufqb2zl7zd6h/phonebook.jpg?raw=1)
+
+---
+
+# BLOCKCHAIN FOR MEDIA
+
+![](https://www.dropbox.com/s/07uea3cqiy13pnb/blockchainfakenews.jpg?raw=1)
+
+---
+
+# BLOCKCHAIN FOR FOOD SAFETY
+
+![](https://www.dropbox.com/s/9u6i4ytqyqwr097/blockchainfood.jpg?raw=1)
 
 ---
