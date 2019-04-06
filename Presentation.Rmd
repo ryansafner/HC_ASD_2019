@@ -2,7 +2,7 @@
 title: "Magic Internet Money?"
 subtitle: "How Blockchain Technology Could Revolutionize the 21^st^ Century Economy"
 author: "Dr. Ryan Safner"
-date: "Hood College Admitted Students Day </br> April 6, 2019"
+date: "Hood College Accepted Students Day </br> April 6, 2019"
 output:
   xaringan::moon_reader:
     lib_dir: libs
