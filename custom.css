@@ -16,6 +16,15 @@
   border-top: 0px solid #FFFFFF;
 }
 
+.blankgray {
+  background-color: #A59C94;
+  border-top: 0px solid #FFFFFF;
+}
+
+.blankgray-content > h1 {
+  color: #236192;
+}
+
 .inverse {
   background-color: #236192;
   text-shadow: none;
