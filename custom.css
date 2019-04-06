@@ -1,5 +1,5 @@
 .remark-slide-content {
-  background-color: #A59C94;
+  background-color: #FFFFFF; /* Great Hood gray: #A59C94 */
   border-top: 80px solid #236192;
   font-size: 20px;
   font-weight: 300;
@@ -11,16 +11,27 @@
   background-color: #A59C94;
 }
 
+.blank {
+  background-color: #FFFFFF;
+  border-top: 0px solid #FFFFFF;
+}
+
 .inverse {
   background-color: #236192;
   text-shadow: none;
 }
 
-.remark-slide-content > h1 {
+.inverse > h1 {
   font-variant: small-caps;
-  font-family: 'Fira Sans';
+  font-size: 80px;
+}
+
+
+.remark-slide-content > h1 {
+  font-variant: normal;
+  font-family: 'Yanone Kaffeesatz';
   font-weight: normal;
-  font-size: 45px;
+  font-size: 60px;
   margin-top: -95px;
   margin-left: -00px;
   color: #FAFAFA;
@@ -60,7 +71,7 @@ position: absolute;
 
 .title-slide {
   background-color: #A59C94;
-  border-top: 80px solid #A59C94; 
+  border-top: 0px solid #A59C94; 
 }
 
 .title-slide > h1  {
@@ -135,6 +146,19 @@ position: absolute;
 /* turns off slide numbers for title page: https://github.com/gnab/remark/issues/298 */
 .title-slide .remark-slide-number {
   display: none;
+}
+
+
+.img{
+  max-width: 100%;
+}
+
+.image-50 img {
+  width: 50%;
+}
+
+.image-75 img {
+  width: 75%;
 }
 
 .remark-inline-code {
